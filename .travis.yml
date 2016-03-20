@@ -9,5 +9,6 @@ addons:
       - oracle-java8-installer
 notifications:
   slack: tecnicas7510-01-2016:43BRCtpL4l34RXwewR6Lv3z4
+cache: bundler
 
 
